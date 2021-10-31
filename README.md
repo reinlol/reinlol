@@ -19,4 +19,4 @@ Most of my Python experience is in working with Discord Bots.
 My C# experience mostly consists of Unity Game Development, but I am moving into full-stack development currently, in which I use Angular and <span>ASP.NET</span> mainly.
 
 ### Work Experience
-None at all, never had a job, not a single one :>
+None at all, never had a job, not a single one _(Hire me, I'll make you proud father :>)_
